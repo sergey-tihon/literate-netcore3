@@ -1,0 +1,3 @@
+group docs
+    FSharp.Core
+    FSharp.Literate 
